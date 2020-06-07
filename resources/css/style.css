@@ -1,0 +1,27 @@
+/*Body*/
+
+body {
+  font-family: Roboto,Helvetica,Arial,sans-serif;
+}
+.bg-dark-body {
+  background-color: #e9ecef!important
+}
+
+/*Верхний пост под меню*/
+.bg-color-head-post {
+  background-color: #36bf55!important
+}
+
+/*Цвет постов*/
+.bg-color-post {
+  background-color: #fff!important;
+}
+
+footer {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.bg-header-nav {
+  background-color: #545b62!important
+}
